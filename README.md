@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Afnan</h1>
-<h3 align="center">A passionate frontend developer and UI/UX designerfrom Yemen</h3>
+<h3 align="center">A passionate software engineer with extensive experience in UI/UX design </h3>
 
 - 📫 How to reach me **afnan6642@gmail.com**
 
